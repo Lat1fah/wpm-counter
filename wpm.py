@@ -80,6 +80,6 @@ wrapper(main)
 
 
 
-#it doesn't work. There's a bug somewhere. 
+#This shit doesn't work. There's a bug somewhere. 
 #running this code only on command prompt terminal for the correct output
 #go to .venv then call wpm.py to run it. 
